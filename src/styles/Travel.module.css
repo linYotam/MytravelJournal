@@ -1,0 +1,10 @@
+.travel {
+  display: grid;
+  grid-template-columns: 40px 470px 40px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 5px gray;
+  row-gap: 20px;
+  /* height: 500px; */
+  /* width: 560px; */
+  /* overflow-y: auto; */
+}
